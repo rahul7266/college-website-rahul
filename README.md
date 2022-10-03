@@ -115,7 +115,7 @@ We're happy to merge valid pull requests to this repository !
 To get approval of the pull request much quicker (`Follow Me`)🚀
 '''
 ```
-<a align="center" href="https://github.com/rahul7266"><kbd></kbd><br /><sub><b>Vinayak Saini</b></sub></a><br />
+<a align="center" href="https://github.com/rahul7266"><kbd></kbd><br /><sub><b>Rahul Singh</b></sub></a><br />
 
 `For doubts contact mail@rahulsingh.me`
 ### Happy coding fellas!!💕✨
